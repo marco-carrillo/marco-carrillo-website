@@ -1,0 +1,10 @@
+#MCpic{
+    width:200px;
+    border-radius: 80%;
+}
+
+.toprow {
+    margin-top:30px;
+    font-family: 'Reenie Beanie', cursive;
+    font-size:30px;
+}

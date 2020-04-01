@@ -1,0 +1,56 @@
+/*************************/
+/* About me tab content */
+/*************************/
+
+#MCpic{
+    width:200px;
+    border-radius: 80%;
+}
+
+.toprow {
+    margin-top:30px;
+}
+
+.tab-content {
+    font-family: 'Reenie Beanie', cursive;
+    font-size:30px;
+}
+
+#home {
+    font-family: 'Reenie Beanie', cursive;
+    font-size:30px;
+}
+
+
+.carousel-port {
+    align-items:center;
+    align-content: center;
+
+}
+
+.slide-pic{
+    width:800px;
+}
+
+.emph {
+    font-family: 'Kranky', cursive;
+    font-weight: bolder;
+}
+
+.card{
+    align-items:center;
+    align-content:center;
+    text-align: center;
+}
+
+.center{
+    align-items:center;
+    align-content:center;
+    text-align: center;
+}
+
+.card-title{
+    font-size:23px;
+    font-weight: bold;
+}
+
