@@ -4,7 +4,7 @@ import './styles.css';
 function Project(props){
 
     return(
-        <div className="col-sm-3 mt-3">
+        <div className="col-sm-3 my-3">
             <div className="card">
                 <img src={require(`../../images/${props.picture}`)} className="card-img-top" alt="Prj Pic"/>
                 <div className="card-body">
