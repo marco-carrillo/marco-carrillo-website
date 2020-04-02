@@ -4,5 +4,11 @@ nav.navbar.navbar-default {
 
 .menu {
     font-size:30px;
-    font-weight: bolder;
+    /* font-weight: bolder; */
+    font-family: 'Kranky', cursive;
+
+}
+
+.active {
+  font-weight: bolder
 }

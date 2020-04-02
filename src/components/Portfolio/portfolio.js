@@ -28,9 +28,9 @@ let Portfolio =
     {
         "name": "TradingBot",
         "title": "Trading application",
-        "appURL": "https://ravil822.github.io/Project_1/",
-        "repURL":  "https://github.cohttps://github.com/Ravil822/Project_1",
-        "picture":  "weather-forecast.png",
+        "appURL": "https://marco-carrillo.github.io/TradingBots/",
+        "repURL":  "https://github.com/marco-carrillo/TradingBots",
+        "picture":  "trading-app.png",
         "key": "004"
     },
     {
@@ -47,9 +47,32 @@ let Portfolio =
         "appURL": "https://valentino-restaurant.herokuapp.com/",
         "repURL":  "https://github.com/marco-carrillo/valentinos-restaurant",
         "picture":  "valentinos.png",
-        "key": "002"
+        "key": "006"
+    },
+    {
+        "name": "Fitness",
+        "title": "Workout Tracker",
+        "appURL": "https://workout-tracker001.herokuapp.com/",
+        "repURL":  "https://github.com/marco-carrillo/workout-tracker",
+        "picture":  "workout-tracker.png",
+        "key": "007"
+    },
+    {
+        "name": "Budget",
+        "title": "Budget Tracker",
+        "appURL": "https://budget-tracker-001.herokuapp.com/",
+        "repURL":  "https://github.com/marco-carrillo/budget-tracker",
+        "picture":  "budget-tracker.png",
+        "key": "008"
+    },
+    {
+        "name": "Directory",
+        "title": "Employee Directory",
+        "appURL": "https://employee-directory-001.herokuapp.com/",
+        "repURL":  "https://github.com/marco-carrillo/employee-directory",
+        "picture":  "employee-directory.png",
+        "key": "009"
     }
-
 ]
 
 export default Portfolio;

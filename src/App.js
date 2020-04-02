@@ -12,13 +12,13 @@ function App() {
     <Router>
         <div>
           <Header />
-          <Navbar />
-          {/* <Wrapper> */}
+          <Wrapper>
+              <Navbar />
               <Route exact path="/" component={Home} />
               <Route exact path="/home" component={Home} />
               <Route exact path="/links" component={Links} />
               <Route exact path="/portfolio" component={ProjPortfolio} />
-          {/* </Wrapper> */}
+          </Wrapper>
         </div>
     </Router>
   );
